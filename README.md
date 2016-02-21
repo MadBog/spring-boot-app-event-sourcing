@@ -1,5 +1,5 @@
 # spring-boot-app-event-sourcing
-### Prerequisites:
+### Technologies:
 - JDK 8
 - MAVEN 3
 - Spring Boot 
